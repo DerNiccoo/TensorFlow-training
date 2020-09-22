@@ -18,3 +18,7 @@ training_2
 checkpoints
 my_dir
 training_checkpoints
+deu-eng
+nico_training_checkpoints
+att_training_checkpoints
+att2_training_checkpoints
