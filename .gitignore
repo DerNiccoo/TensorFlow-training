@@ -22,3 +22,5 @@ deu-eng
 nico_training_checkpoints
 att_training_checkpoints
 att2_training_checkpoints
+train2014
+annotations
